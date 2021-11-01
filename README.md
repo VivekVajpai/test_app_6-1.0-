@@ -3,7 +3,6 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
 
 * Ruby version
 
@@ -22,4 +21,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-Complete Ruby On Rails Develpor
+Complete Ruby On Rails Develpor Course.
+Rails is a framework and Ruby is the language on which this is based.
